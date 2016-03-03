@@ -24,7 +24,7 @@ body {
     background:transparent url(bk.JPG);
     width: 100%;
     height: 1000px;
-    background-size: cover;
+    background-size: contain;
 
     -webkit-filter: blur(4px);
     -moz-filter: blur(4px);
